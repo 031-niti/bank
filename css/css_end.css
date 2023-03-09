@@ -1,0 +1,46 @@
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+      font-family: 'Mitr', sans-serif;
+      font-weight: light;
+
+  }
+
+  .msg {
+      font-family: 'Mitr', sans-serif;
+      font-weight: bold;
+  }
+
+  .csg {
+      font-family: 'Mitr', sans-serif;
+      font-weight: Regular;
+
+  }
+
+  p {
+      border: 2px solid lightgrey;
+      border-radius: 8px;
+      padding: 8px
+  }
+
+  #img_container img {
+      height: 250px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+
+
+
+  }
+
+  #footer {
+      clear: both;
+  }
+
+  div.a {
+      text-align: center;
+  }

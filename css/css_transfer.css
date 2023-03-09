@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Mitr', sans-serif;
+    font-weight: light;
+}
+
+.msg {
+    border-radius: 5px;
+    text-align: center;
+    margin: 2rem 0;
+    color: rgb(0, 0, 0);
+    font-family: 'Mitr', sans-serif;
+    font-weight: bold;
+}
+
+.csg {
+    color: rgb(0, 0, 0);
+    font-family: 'Mitr', sans-serif;
+    font-weight: Regular;
+
+}
+
+.bank{
+    font-weight: bold;
+}
+
